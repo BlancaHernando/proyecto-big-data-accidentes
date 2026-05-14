@@ -1,0 +1,81 @@
+﻿TIPO_ACCIDENTE,AÑO,ACCIDENTES,VICTIMAS,FALLECIDOS
+Animal en calzada,2019,7111,7676,25
+Animal en calzada,2020,5660,6060,21
+Animal en calzada,2021,7036,7571,16
+Animal en calzada,2022,8327,8871,21
+Atropello a ciclista,2019,2097,2868,68
+Atropello a ciclista,2020,1551,1987,58
+Atropello a ciclista,2021,1837,2482,68
+Atropello a ciclista,2022,1810,2497,81
+Atropello a peatón,2019,3617,4061,27
+Atropello a peatón,2020,2930,3249,13
+Atropello a peatón,2021,3460,3833,22
+Atropello a peatón,2022,3683,4038,15
+Caída de motociclista,2019,4749,5919,99
+Caída de motociclista,2020,3681,4475,80
+Caída de motociclista,2021,4390,5378,63
+Caída de motociclista,2022,4511,5581,84
+Caída de ocupante,2019,1352,1934,50
+Caída de ocupante,2020,950,1285,43
+Caída de ocupante,2021,1125,1604,52
+Caída de ocupante,2022,1096,1501,70
+Choque con bordillo,2019,462,566,2
+Choque con bordillo,2020,414,519,1
+Choque con bordillo,2021,453,550,3
+Choque con bordillo,2022,451,568,0
+Choque obstáculo calzada,2019,2746,3417,40
+Choque obstáculo calzada,2020,2225,2750,34
+Choque obstáculo calzada,2021,2032,2517,42
+Choque obstáculo calzada,2022,2345,2919,39
+Choque obstáculo lateral,2019,13289,14961,279
+Choque obstáculo lateral,2020,8422,9518,192
+Choque obstáculo lateral,2021,10111,11333,217
+Choque obstáculo lateral,2022,12097,13593,251
+Choque obstáculo mediana,2019,438,587,32
+Choque obstáculo mediana,2020,303,421,25
+Choque obstáculo mediana,2021,325,454,25
+Choque obstáculo mediana,2022,375,514,41
+Colisión frontal,2019,3434,6391,265
+Colisión frontal,2020,2511,4381,192
+Colisión frontal,2021,2991,5412,207
+Colisión frontal,2022,3261,5915,260
+Colisión frontolateral,2019,21550,29826,158
+Colisión frontolateral,2020,15473,20931,136
+Colisión frontolateral,2021,18571,25223,154
+Colisión frontolateral,2022,20752,27630,143
+Colisión lateral,2019,9702,12315,31
+Colisión lateral,2020,6461,8033,27
+Colisión lateral,2021,8163,10197,33
+Colisión lateral,2022,8761,10962,39
+Colisión múltiple,2019,2684,5802,19
+Colisión múltiple,2020,1420,2953,17
+Colisión múltiple,2021,2076,4440,21
+Colisión múltiple,2022,2168,4646,21
+Colisión por alcance,2019,18858,28829,107
+Colisión por alcance,2020,11907,17677,69
+Colisión por alcance,2021,15002,22713,87
+Colisión por alcance,2022,16092,24148,107
+Objeto desprendido,2019,5523,7332,34
+Objeto desprendido,2020,3794,4800,36
+Objeto desprendido,2021,5660,7195,38
+Objeto desprendido,2022,4840,6342,22
+Otro tipo,2019,1346,1663,20
+Otro tipo,2020,1055,1265,20
+Otro tipo,2021,1319,1614,39
+Otro tipo,2022,1306,1637,24
+Salida vía derecha,2019,43,53,0
+Salida vía derecha,2020,40,46,0
+Salida vía derecha,2021,30,41,0
+Salida vía derecha,2022,70,77,0
+Salida vía izquierda,2019,2152,2977,84
+Salida vía izquierda,2020,1737,2340,73
+Salida vía izquierda,2021,2271,3091,105
+Salida vía izquierda,2022,2567,3545,113
+Se desconoce,2019,2665,3569,145
+Se desconoce,2020,2193,2923,124
+Se desconoce,2021,2789,3739,101
+Se desconoce,2022,3184,4262,143
+Vuelco en calzada,2019,262,367,11
+Vuelco en calzada,2020,232,319,26
+Vuelco en calzada,2021,221,305,18
+Vuelco en calzada,2022,220,330,30

@@ -1,0 +1,155 @@
+[
+  {
+    "fase": "EXTRACT",
+    "fuente": "raw",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "Carga OK",
+    "timestamp": "2026-05-09T20:40:10.951182Z"
+  },
+  {
+    "fase": "EXTRACT",
+    "fuente": "provincia",
+    "registros_entrada": 208,
+    "registros_salida": 208,
+    "descartados": 0,
+    "motivo_principal": "Carga OK",
+    "timestamp": "2026-05-09T20:40:10.951960Z"
+  },
+  {
+    "fase": "EXTRACT",
+    "fuente": "tipo",
+    "registros_entrada": 80,
+    "registros_salida": 80,
+    "descartados": 0,
+    "motivo_principal": "Carga OK",
+    "timestamp": "2026-05-09T20:40:10.952412Z"
+  },
+  {
+    "fase": "EXTRACT",
+    "fuente": "resumen",
+    "registros_entrada": 4,
+    "registros_salida": 4,
+    "descartados": 0,
+    "motivo_principal": "Carga OK",
+    "timestamp": "2026-05-09T20:40:10.952868Z"
+  },
+  {
+    "fase": "T01_Duplicados",
+    "fuente": "raw",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "Exactos=0, PK=0",
+    "timestamp": "2026-05-09T20:40:10.959976Z"
+  },
+  {
+    "fase": "T01_Duplicados",
+    "fuente": "provincia",
+    "registros_entrada": 208,
+    "registros_salida": 208,
+    "descartados": 0,
+    "motivo_principal": "Duplicados por (PROVINCIA,AÑO)",
+    "timestamp": "2026-05-09T20:40:10.960157Z"
+  },
+  {
+    "fase": "T01_Duplicados",
+    "fuente": "tipo",
+    "registros_entrada": 80,
+    "registros_salida": 80,
+    "descartados": 0,
+    "motivo_principal": "Duplicados por (TIPO,AÑO)",
+    "timestamp": "2026-05-09T20:40:10.960294Z"
+  },
+  {
+    "fase": "T03_Blancos",
+    "fuente": "raw+prov+tipo",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "0 blancos→NaN",
+    "timestamp": "2026-05-09T20:40:10.964743Z"
+  },
+  {
+    "fase": "T02_Nulos",
+    "fuente": "raw",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "22 nulos imputados (0/mediana/moda)",
+    "timestamp": "2026-05-09T20:40:10.967971Z"
+  },
+  {
+    "fase": "T04_Tipos",
+    "fuente": "raw+prov+tipo",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "14 columnas casteadas",
+    "timestamp": "2026-05-09T20:40:10.971775Z"
+  },
+  {
+    "fase": "T05_Fechas",
+    "fuente": "raw",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "FECHA_ACCIDENTE ISO-8601 creada; 0 errores parseo",
+    "timestamp": "2026-05-09T20:40:10.975810Z"
+  },
+  {
+    "fase": "T06_Texto",
+    "fuente": "raw+prov+tipo",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "7 campos normalizados en columnas _NORM",
+    "timestamp": "2026-05-09T20:40:11.005857Z"
+  },
+  {
+    "fase": "T07_Rangos",
+    "fuente": "raw",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "Fuera de rango negocio (HORA/MES/AÑO/victimas)",
+    "timestamp": "2026-05-09T20:40:11.006298Z"
+  },
+  {
+    "fase": "T08_Outliers",
+    "fuente": "raw",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "298 outliers acotados (IQR/z-score, winsorizing)",
+    "timestamp": "2026-05-09T20:40:11.008844Z"
+  },
+  {
+    "fase": "T09_PII",
+    "fuente": "raw",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "ID_ACCIDENTE→ID_ACCIDENTE_HASH (SHA-256)",
+    "timestamp": "2026-05-09T20:40:11.010984Z"
+  },
+  {
+    "fase": "T10_Referencial",
+    "fuente": "raw↔prov",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "0 huerf.PROV + 0 huerf.TIPO (doc.)",
+    "timestamp": "2026-05-09T20:40:11.011720Z"
+  },
+  {
+    "fase": "MERGE_FINAL",
+    "fuente": "Todas",
+    "registros_entrada": 5000,
+    "registros_salida": 5000,
+    "descartados": 0,
+    "motivo_principal": "source_id + load_timestamp añadidos",
+    "timestamp": "2026-05-09T20:40:11.011956Z"
+  }
+]

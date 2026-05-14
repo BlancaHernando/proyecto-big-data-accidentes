@@ -1,0 +1,81 @@
+﻿TIPO_ACCIDENTE,AÑO,ACCIDENTES,VICTIMAS,FALLECIDOS,TIPO_ACCIDENTE_NORM
+Animal en calzada,2019,7111,7676,25,animal en calzada
+Animal en calzada,2020,5660,6060,21,animal en calzada
+Animal en calzada,2021,7036,7571,16,animal en calzada
+Animal en calzada,2022,8327,8871,21,animal en calzada
+Atropello a ciclista,2019,2097,2868,68,atropello a ciclista
+Atropello a ciclista,2020,1551,1987,58,atropello a ciclista
+Atropello a ciclista,2021,1837,2482,68,atropello a ciclista
+Atropello a ciclista,2022,1810,2497,81,atropello a ciclista
+Atropello a peatón,2019,3617,4061,27,atropello a peaton
+Atropello a peatón,2020,2930,3249,13,atropello a peaton
+Atropello a peatón,2021,3460,3833,22,atropello a peaton
+Atropello a peatón,2022,3683,4038,15,atropello a peaton
+Caída de motociclista,2019,4749,5919,99,caida de motociclista
+Caída de motociclista,2020,3681,4475,80,caida de motociclista
+Caída de motociclista,2021,4390,5378,63,caida de motociclista
+Caída de motociclista,2022,4511,5581,84,caida de motociclista
+Caída de ocupante,2019,1352,1934,50,caida de ocupante
+Caída de ocupante,2020,950,1285,43,caida de ocupante
+Caída de ocupante,2021,1125,1604,52,caida de ocupante
+Caída de ocupante,2022,1096,1501,70,caida de ocupante
+Choque con bordillo,2019,462,566,2,choque con bordillo
+Choque con bordillo,2020,414,519,1,choque con bordillo
+Choque con bordillo,2021,453,550,3,choque con bordillo
+Choque con bordillo,2022,451,568,0,choque con bordillo
+Choque obstáculo calzada,2019,2746,3417,40,choque obstaculo calzada
+Choque obstáculo calzada,2020,2225,2750,34,choque obstaculo calzada
+Choque obstáculo calzada,2021,2032,2517,42,choque obstaculo calzada
+Choque obstáculo calzada,2022,2345,2919,39,choque obstaculo calzada
+Choque obstáculo lateral,2019,13289,14961,279,choque obstaculo lateral
+Choque obstáculo lateral,2020,8422,9518,192,choque obstaculo lateral
+Choque obstáculo lateral,2021,10111,11333,217,choque obstaculo lateral
+Choque obstáculo lateral,2022,12097,13593,251,choque obstaculo lateral
+Choque obstáculo mediana,2019,438,587,32,choque obstaculo mediana
+Choque obstáculo mediana,2020,303,421,25,choque obstaculo mediana
+Choque obstáculo mediana,2021,325,454,25,choque obstaculo mediana
+Choque obstáculo mediana,2022,375,514,41,choque obstaculo mediana
+Colisión frontal,2019,3434,6391,265,colision frontal
+Colisión frontal,2020,2511,4381,192,colision frontal
+Colisión frontal,2021,2991,5412,207,colision frontal
+Colisión frontal,2022,3261,5915,260,colision frontal
+Colisión frontolateral,2019,21550,29826,158,colision frontolateral
+Colisión frontolateral,2020,15473,20931,136,colision frontolateral
+Colisión frontolateral,2021,18571,25223,154,colision frontolateral
+Colisión frontolateral,2022,20752,27630,143,colision frontolateral
+Colisión lateral,2019,9702,12315,31,colision lateral
+Colisión lateral,2020,6461,8033,27,colision lateral
+Colisión lateral,2021,8163,10197,33,colision lateral
+Colisión lateral,2022,8761,10962,39,colision lateral
+Colisión múltiple,2019,2684,5802,19,colision multiple
+Colisión múltiple,2020,1420,2953,17,colision multiple
+Colisión múltiple,2021,2076,4440,21,colision multiple
+Colisión múltiple,2022,2168,4646,21,colision multiple
+Colisión por alcance,2019,18858,28829,107,colision por alcance
+Colisión por alcance,2020,11907,17677,69,colision por alcance
+Colisión por alcance,2021,15002,22713,87,colision por alcance
+Colisión por alcance,2022,16092,24148,107,colision por alcance
+Objeto desprendido,2019,5523,7332,34,objeto desprendido
+Objeto desprendido,2020,3794,4800,36,objeto desprendido
+Objeto desprendido,2021,5660,7195,38,objeto desprendido
+Objeto desprendido,2022,4840,6342,22,objeto desprendido
+Otro tipo,2019,1346,1663,20,otro tipo
+Otro tipo,2020,1055,1265,20,otro tipo
+Otro tipo,2021,1319,1614,39,otro tipo
+Otro tipo,2022,1306,1637,24,otro tipo
+Salida vía derecha,2019,43,53,0,salida via derecha
+Salida vía derecha,2020,40,46,0,salida via derecha
+Salida vía derecha,2021,30,41,0,salida via derecha
+Salida vía derecha,2022,70,77,0,salida via derecha
+Salida vía izquierda,2019,2152,2977,84,salida via izquierda
+Salida vía izquierda,2020,1737,2340,73,salida via izquierda
+Salida vía izquierda,2021,2271,3091,105,salida via izquierda
+Salida vía izquierda,2022,2567,3545,113,salida via izquierda
+Se desconoce,2019,2665,3569,145,se desconoce
+Se desconoce,2020,2193,2923,124,se desconoce
+Se desconoce,2021,2789,3739,101,se desconoce
+Se desconoce,2022,3184,4262,143,se desconoce
+Vuelco en calzada,2019,262,367,11,vuelco en calzada
+Vuelco en calzada,2020,232,319,26,vuelco en calzada
+Vuelco en calzada,2021,221,305,18,vuelco en calzada
+Vuelco en calzada,2022,220,330,30,vuelco en calzada
